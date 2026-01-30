@@ -23,36 +23,20 @@ All architecture decisions, integrations, and testing were done by the creator.
 
 ---
 
-## ✨ Current Features (Working)
+### Current Status (Beta)
 
-- Offline AI chat (LLM runs locally)
-- Image understanding (Cherry Lens)
-- Voice input and voice reply
-- Desktop GUI (Windows / Linux)
-- Fully local and private
-- Zero cost and unlimited usage
+✔ Offline AI chat  
+✔ Single-image understanding (Cherry Lens)  
+✔ Desktop app structure  
 
----
+🧪 Experimental:
+• Multi-image understanding
 
-## 🚧 Features Under Development
-
-- Multi-image understanding
-- Web search (DuckDuckGo)
-- Chat history
-- Retry & edit responses
-- Export replies to PDF / DOCX
-
----
-
-## 🧠 Planned Features
-
-- Web version
-- Login / Signup
-- Group chat
-- OpenCV hand gesture control
-- App control using voice
-- Support for 100+ languages
-- Android companion app
+🚧 In progress:
+• Voice input & voice replies
+• Chat history
+• Web search
+• Export to PDF / DOCX
 
 ---
 
@@ -71,4 +55,5 @@ This keeps the project lightweight and completely free.
 pip install -r requirements-core.txt
 python main.py  
 a B.Tech 1st year student specializing in Artificial Intelligence & Machine Learning.
+
 
