@@ -1,0 +1,15 @@
+customtkinter
+torch
+torchvision
+torchaudio
+transformers
+llama_cpp_python
+pillow
+numpy
+psutil
+requests
+huggingface-hub
+safetensors
+SpeechRecognition
+pyttsx3
+PyAudio
