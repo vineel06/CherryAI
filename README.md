@@ -57,8 +57,4 @@ This keeps the project lightweight and completely free.
 
 ```bash
 pip install -r requirements-core.txt
-python main.py  
-a B.Tech 1st year student specializing in Artificial Intelligence & Machine Learning.
-
-
-
+python main.py
