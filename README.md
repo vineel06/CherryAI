@@ -10,6 +10,19 @@ Features are actively being developed and improved.
 
 ---
 
+## 👤 Creator
+
+Cherry AI is created and maintained by **Vineel**
+
+---
+
+## 🤝 Development Note
+
+Cherry AI was developed with the help of modern AI tools for learning, debugging, and guidance.
+All architecture decisions, integrations, and testing were done by the creator.
+
+---
+
 ## ✨ Current Features (Working)
 
 - Offline AI chat (LLM runs locally)
@@ -56,10 +69,6 @@ This keeps the project lightweight and completely free.
 
 ```bash
 pip install -r requirements-core.txt
-python main.py
-
-
-## 👤 Creator
-
-Cherry AI is created and maintained by **Vineel**,  
+python main.py  
 a B.Tech 1st year student specializing in Artificial Intelligence & Machine Learning.
+
