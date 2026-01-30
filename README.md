@@ -10,6 +10,10 @@ Features are actively being developed and improved.
 
 ---
 
+📦 Installation Guide: See [INSTALL.md](INSTALL.md)
+
+---
+
 ## 👤 Creator
 
 Cherry AI is created and maintained by **Vineel**
@@ -55,5 +59,6 @@ This keeps the project lightweight and completely free.
 pip install -r requirements-core.txt
 python main.py  
 a B.Tech 1st year student specializing in Artificial Intelligence & Machine Learning.
+
 
 
